@@ -1,1 +1,34 @@
-/* You can add global styles to this file, and also import other style files */
+/* Shared Classes */
+
+.wrapper {
+    padding: 4px 20px;
+    /* color: whitesmoke; */
+}
+
+.margin-zero {
+    margin: 0px 0px;
+}
+
+.border-zero {
+    border: 0px 0px;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.text-bold {
+    text-decoration-style: solid;
+}
+
+.text-blue {
+    color: skyblue;
+}

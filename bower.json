@@ -1,0 +1,22 @@
+{
+  "name": "bluepaid",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Sittinut (Pin) Chivakunakorn <sittinut.c@gmail.com>"
+  ],
+  "license": "Sittinut (Pin) Chivakunakorn",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "^6.0.0",
+    "bootstrap": "^3.3.7"
+  }
+}

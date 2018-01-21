@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('learn-fed-hw-dilip App', () => {
+describe('BluePaid App', () => {
   let page: AppPage;
 
   beforeEach(() => {
